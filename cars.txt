@@ -1,0 +1,14 @@
+{make:Audi,model:A3,vin:8373648,year:2015,color:Gray,engine:2.0L Turbo,bodyStyle:Sedan,msrp:21900}
+{make:Audi,model:Q7,vin:6264846,year:2014,color:Black,engine:3.0L Turbo,bodyStyle:SUV,msrp:33100}
+{make:BMW,model:6 Series,vin:8262554,year:2015,color:white,engine:2.0L Turbo,bodyStyle:coupe,msrp:40000}
+{make:BMW,model:2 Series,vin:0282635,year:2015,color:red,engine:2.0L Turbo,bodyStyle:convertible,msrp:31300}
+{make:BMW,model:X5,vin:1827257,year:2015,color:black,engine:3.0L Twin Turbo,bodyStyle:SUV,msrp:38400}
+{make:Chevrolet,model:cruze,vin:9282726,year:2015,color:red,engine:1.4L Turbo,bodyStyle:Sedan,msrp:14300}
+{make:Dodge,model:Charger,vin:938376,year:2014,color:blue,engine:3.0L Turbo,bodyStyle:Sport,msrp:16800}
+{make:Chevrolet,model:Camaro,vin:7363736,year:2012,color:red,engine:2.0L Turbo,bodyStyle:Sport,msrp:18000}
+{make:Chevrolet,model:Camaro,vin:7777777,year:2011,color:Red,engine:2.0L Turbo,bodyStyle:Sedan,msrp:12000.0}
+{make:Chevrolet,model:Cruz,vin:372048,year:2012,color:Blue,engine:V4,bodyStyle:Coupe,msrp:13000.0}
+{make:Lexus,model:L3,vin:7363535,year:2012,color:White,engine:2.0L Turb0,bodyStyle:Coupe,msrp:24000.0}
+{make:Nissan,model:Sentra,vin:1234567,year:2013,color:White,engine:4Cyl.,bodyStyle:Sedan,msrp:12000.0}
+{make:Nissan,model:Sentra,vin:1234567,year:2013,color:Yellow,engine:V6,bodyStyle:Sedan,msrp:13000.0}
+

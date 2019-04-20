@@ -1,0 +1,5 @@
+{Name:Ryan Edwards,Address:123 Jones Street,Cars Sold:12 Cars,Username:redwards,Password:YouAndMe123}
+{Name:John Smith,Address:1 Main Street,Cars Sold:7 Cars,Username:,jsmith,Password:sevenCarLord}
+{Name:Christopher Pascucci,Address:45 Maple Street,Cars Sold:9 Cars,Username:cpascucci,Password: Programm3R}
+{Name:Tony Johnson,Address:78 Yard Avenue,Cars Sold:1 Cars,Username:tjohnson,Password:YouAndMe123}
+{Name:Bob Jensen,Address:34 Lame Street,Cars Sold:50 Cars,Username:BJensen66,Password:CoMmissionL0Rd}

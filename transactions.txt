@@ -1,0 +1,8 @@
+{Sales Date:02-25-2012,Sale Price:14000,Customer Name:John Doe,Customer ID:12345,Sales Associate Name:Jake Owens,Sales Associate ID:56789,Vehicle Make:Chevrolet,Vehicle Model:camaro}
+{Sales Date:05-12-2017,Sale Price:12000,Customer Name:Joe Grady, Customer ID:83936,Sales Associate Name:Jessie Reynolds,Sales Associate ID:90372,Vehicle Make:Nissan,Vehicle Model:Sentra}
+{Sales Date:4-4-2018,Sale Price:23000.0,Customer Name:Kelly Gedling,Customer ID:45673,Sales Associate Name:Ryan Edwards,Sales Associate ID:null,Vehicle make:Chevrolet,Vehicle model:Cruze}
+{Sales Date:5-2-2018,Sale Price:24000.0,Customer Name:Bobby Gedling,Customer ID:55712,Sales Associate Name:Chris Pascucci,Sales Associate ID:32412,Vehicle make:Chevrolet,Vehicle model:Cruz}{Sales Date:5-2-2018,Sale Price:12000.0,Customer Name:Chevrolet,Customer ID:Cavalier,Sales Associate Name:Chris Pascucci,Sales Associate ID:12345,Vehicle make:Chevrolet,Vehicle model:Cavalier}
+{Sales Date:5/2/2018,Sale Price:56000.0,Customer Name:John Ashrafa,Customer ID:5684,Sales Associate Name:Ryan Edwards,Sales Associate ID:redwards,Vehicle make:Chevy,Vehicle model:Camaro}
+
+{Sales Date:10/24/2019,Sale Price:45000.0,Customer Name:dickface,Customer ID:45677,Sales Associate Name:Ryan Edwards,Sales Associate ID:redwards,Vehicle make:BMW,Vehicle model:null}
+
